@@ -2,7 +2,7 @@
 const bcrypt = require('bcryptjs')
 const SEED_USER = {
   name: 'root',
-  email: 'root:example.com',
+  email: 'root@example.com',
   password: '12345678'
 }
 
